@@ -1,4 +1,4 @@
-# Requirements && Functionality
+# Requirements & Functionality
 
 1. Phone calling	
 - [ ] Safety Connection HELP button			
