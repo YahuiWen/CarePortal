@@ -1,12 +1,15 @@
 # CarePortal
-Requirements                          Functionality
-------------------------------------------------------------
-Safety Connection HELP button				  Phone calling			
-Self-Advocacy Toolkit									Displaying/Redirection
-Health and Wellness 									Redirection			
-Emergency 911 button									Phone calling
-Transportation Tools									Redirection
-Weather											          Displaying/Redirection
-Job Support Tools 									  Redirection
-Independent Living 									  Redirection
-Information/Communication							Redirection
+Requirements && Functionality
+
+1. Phone calling	
+- [ ] Safety Connection HELP button			
+- [ ] Emergency 911 button								
+2. Redirection
+- [ ] Job Support Tools 								  
+- [ ] Independent Living 								  
+- [ ] Information/Communication						
+- [ ] Health and Wellness 									
+- [ ] Transportation Tools								
+3. Displaying/Redirection
+- [ ] Weather											       
+- [ ] Self-Advocacy Toolkit						
